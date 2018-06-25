@@ -1,5 +1,7 @@
 <template>
-    <h1>Home Home</h1>
+<div>    
+    Hello World
+</div>
 </template>
 <script>
 export default {
@@ -7,4 +9,7 @@ export default {
 };
 </script>
 <style scope>
+.home {
+  font-size: 50px;
+}
 </style>
